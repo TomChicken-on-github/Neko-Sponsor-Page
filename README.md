@@ -37,8 +37,8 @@ Neko-sponsor-page 是一个简洁、美观、响应式的赞助页面模板，�
    ```
 
 2. 替换自己的收款码
-   - 将`Wechat_pay.jpeg`替换为您的微信收款码
-   - 将`Alipay.jpeg`替换为您的支付宝收款码
+   - 将您的微信收款码图片命名为`Wechat_pay.jpeg`并放在网站根目录
+   - 将您的支付宝收款码图片命名为`Alipay.jpeg`并放在网站根目录
    - 修改加密货币地址为您自己的地址
 
 3. 自定义页面（可选）
@@ -100,9 +100,9 @@ Neko-sponsor-page is a clean, beautiful, and responsive sponsor page template de
    git clone https://github.com/yourusername/Neko-sponsor-page.git
    ```
 
-2. Replace with your own payment QR codes
-   - Replace `Wechat_pay.jpeg` with your WeChat payment QR code
-   - Replace `Alipay.jpeg` with your Alipay payment QR code
+2.  Replace Your Payment QR Codes
+   - Rename your WeChat payment QR code image to Wechat_pay.jpeg and place it in the website root directory.
+   - Rename your Alipay payment QR code image to Alipay.jpeg and place it in the website root directory.
    - Modify the cryptocurrency addresses to your own
 
 3. Customize the page (optional)
