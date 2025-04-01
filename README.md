@@ -6,7 +6,7 @@
 
 ![Neko Sponsor Page](https://via.placeholder.com/800x400?text=Neko+Sponsor+Page)
 
-一个可爱的、响应式的赞助页面模板，支持微信、支付宝和加密货币赞助 | A cute, responsive sponsor page template supporting WeChat, Alipay, and cryptocurrency donations
+一个响应式的赞助页面模板，支持微信、支付宝和加密货币赞助 | A responsive sponsor page template supporting WeChat, Alipay, and cryptocurrency donations
 
 </div>
 
@@ -61,18 +61,18 @@ Neko-sponsor-page 是一个简洁、美观、响应式的赞助页面模板，�
 }
 ```
 
-### 📱 浏览器兼容性
+### 📱 兼容性
 
 - Chrome 60+
 - Firefox 60+
 - Safari 12+
 - Edge 79+
 - Opera 47+
-- 移动浏览器支持
+- 移动设备尺寸支持
 
 ### 📄 许可证
 
-本项目采用 MIT 许可证，详情请参阅 [LICENSE](LICENSE) 文件。
+本项目采用 GPLv3 许可证，详情请参阅 [LICENSE](LICENSE) 文件。
 
 ---
 
@@ -125,18 +125,18 @@ You can easily change the theme colors of the page by editing the CSS variables:
 }
 ```
 
-### 📱 Browser Compatibility
+### 📱 Compatibility
 
 - Chrome 60+
 - Firefox 60+
 - Safari 12+
 - Edge 79+
 - Opera 47+
-- Mobile browsers supported
+- Mobile Device Size supported
 
 ### 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
