@@ -25,24 +25,24 @@ Neko-sponsor-page 是一个简洁、美观、响应式的赞助页面模板，�
 - 🎨 精美的界面设计，带有平滑过渡动画效果
 - 📱 支持微信和支付宝收款码展示，点击放大功能
 - 💰 内置加密货币地址展示，支持一键复制功能
-- 🔄 基于纯HTML、CSS和JavaScript开发，无需后端支持
+- 🔄 基于纯 HTML、CSS 和 JavaScript 开发，无需后端支持
 - 🌈 易于定制的配色方案和样式
-- 🚀 优化的加载性能，使用轻量级的AOS动画库
+- 🚀 优化的加载性能，使用轻量级的 AOS 动画库
 
 ### 🚀 快速开始
 
 1. 克隆仓库到本地
-   ```
-   git clone https://github.com/yourusername/Neko-sponsor-page.git
+   ```bash
+   git clone https://github.com/TomChicken-on-github/Neko-sponsor-page.git
    ```
 
 2. 替换自己的收款码
-   - 将您的微信收款码图片命名为`Wechat_pay.jpeg`并放在网站根目录
-   - 将您的支付宝收款码图片命名为`Alipay.jpeg`并放在网站根目录
+   - 将您的微信收款码图片命名为 `Wechat_pay.jpeg` 并放在网站根目录
+   - 将您的支付宝收款码图片命名为 `Alipay.jpeg` 并放在网站根目录
    - 修改加密货币地址为您自己的地址
 
 3. 自定义页面（可选）
-   - 修改`:root`中的颜色变量以更改配色方案
+   - 修改 `:root` 中的颜色变量以更改配色方案
    - 调整页面标题和描述文本
 
 4. 部署到您的网站
@@ -50,7 +50,7 @@ Neko-sponsor-page 是一个简洁、美观、响应式的赞助页面模板，�
 
 ### 🔧 自定义选项
 
-您可以通过编辑CSS变量轻松更改页面的主题颜色：
+您可以通过编辑 CSS 变量轻松更改页面的主题颜色：
 
 ```css
 :root {
@@ -96,21 +96,21 @@ Neko-sponsor-page is a clean, beautiful, and responsive sponsor page template de
 ### 🚀 Quick Start
 
 1. Clone the repository
-   ```
-   git clone https://github.com/yourusername/Neko-sponsor-page.git
+   ```bash
+   git clone https://github.com/TomChicken-on-github/Neko-sponsor-page.git
    ```
 
-2.  Replace Your Payment QR Codes
-   - Rename your WeChat payment QR code image to Wechat_pay.jpeg and place it in the website root directory.
-   - Rename your Alipay payment QR code image to Alipay.jpeg and place it in the website root directory.
-   - Modify the cryptocurrency addresses to your own
+2. Replace Your Payment QR Codes
+   - Rename your WeChat payment QR code image to `Wechat_pay.jpeg` and place it in the website root directory.
+   - Rename your Alipay payment QR code image to `Alipay.jpeg` and place it in the website root directory.
+   - Modify the cryptocurrency addresses to your own.
 
 3. Customize the page (optional)
-   - Modify the color variables in `:root` to change the color scheme
-   - Adjust the page title and description text
+   - Modify the color variables in `:root` to change the color scheme.
+   - Adjust the page title and description text.
 
 4. Deploy to your website
-   - Upload the modified files to your web server or static page hosting service
+   - Upload the modified files to your web server or static page hosting service.
 
 ### 🔧 Customization Options
 
@@ -142,6 +142,6 @@ This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) fi
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Tom_Chicken**
 
 </div>
